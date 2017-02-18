@@ -6,4 +6,5 @@ add doors
 add repo to server
 find out how to fake players for testing purposes
 	add info to README
+	->faked suite
 find bug reporting software for issue and bug tracking

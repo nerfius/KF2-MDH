@@ -7,3 +7,16 @@ How to run map in game:
 3. copy map to folder "MDH"
 4. Start game and open console ("ö")
 5. type "open kf-mdh" in console to start map
+
+Paths Guide
+Normal Connections
+        Blue - narrow path (Stalker, Crawler, Siren or otherwise Small)
+        Green - normal width (Clot, Gorefast, Husk or otherwise Medium)
+        White - wide path (Bloat, Scrake, Hans, Pound or otherwise Large/Boss)
+        Pink - very wide path (Sizes in excess of current)
+Special Connections
+        Yellow - forced path
+        Red - proscribed path
+        Light Purple - requires high jump (higher than normal jump capability) (Special Moves 1)
+        Purple - "advanced" path (requires "intelligence" to be used) (Special Moves 2)
+        Orange - Wall crawling narrow
