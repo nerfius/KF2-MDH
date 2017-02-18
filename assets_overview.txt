@@ -1,0 +1,19 @@
+Environment
+	railings
+	pillars
+Textures
+	walls
+	floors
+	roofs
+Static Meshes
+	tables
+	chairs
+	computers
+	benches
+	trees
+Doors
+	glass/double doors
+	solid door(wood)
+	door with window(round)
+Lights
+	different areas

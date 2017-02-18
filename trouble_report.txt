@@ -1,0 +1,8 @@
+zeds reluctant to jump from 2nd floor in main hall
+bloat gets stuck in u2-023 (all zeds have trouble getting out)
+trader pod does not visually deploy
+zeds spawn in other end of building
+only one tradera
+scrake sometimes reluctant to walk through small doorways
+shooting gallery corridors, spawns need teaking (shorter range)
+jumping into middle open area fools zeds
