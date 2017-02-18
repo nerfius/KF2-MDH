@@ -5,3 +5,5 @@ add railings
 add doors
 add repo to server
 find out how to fake players for testing purposes
+	add info to README
+find bug reporting software for issue and bug tracking
