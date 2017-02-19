@@ -1,9 +1,3 @@
-add area designations, i.e. "Main Hall"
-fix info desk
-add pillars
-add railings
-add doors
-add repo to server
 find out how to fake players for testing purposes
 	add info to README
 	->faked suite
