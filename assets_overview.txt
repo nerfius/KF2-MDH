@@ -7,10 +7,15 @@ Textures
 	roofs
 Static Meshes
 	tables
+		ENV_BioticsLab
 	chairs
+		ENV_BioticsLab/DeskChair
 	computers
 	benches
 	trees
+	railings
+		bioticslab
+		env_modular_static_set/stairwell
 Doors
 	glass/double doors
 	solid door(wood)
