@@ -1,6 +1,9 @@
 Template environment meshes, walls, ceilings, floors, are located in
 KFGame/BrewedPC/Packages/Environment/Env_Modular_StaticSet/Env_Modular_StaticSet_MESH/single_mesh
 
+SDK Sample maps
+<dir>\Steam\steamapps\common\killingfloor2\KFGame\BrewedPC\Maps\SDK
+
 How to run map in game:
 1. go to <Steam installation folder with KF2 game>\steamapps\common\killingfloor2\KFGame\BrewedPC\Maps
 2. make a directory called "MDH"
