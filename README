@@ -9,3 +9,5 @@ How to run map in game:
 5. Type "open kf-mdh" in console to start map
 
 If you find any errors or bugs, or simply have comment, make a github account and submit issues for this project.
+
+If you experience a crash, the game logs are located in C:\Users\<USER>\Documents\My Games\KillingFloor2\KFGame\Logs
