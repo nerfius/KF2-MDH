@@ -15,3 +15,8 @@ door
 
 geometry 60%
 paths
+
+pillar
+Z 800
+OR 16
+Sides 16 
