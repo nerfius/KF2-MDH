@@ -10,6 +10,7 @@ Static Meshes
 		ENV_BioticsLab
 	chairs
 		ENV_BioticsLab/DeskChair
+		ENV_BioticsLab_MESH, office
 	computers
 	benches
 	trees
@@ -22,3 +23,7 @@ Doors
 	door with window(round)
 Lights
 	different areas
+Windows
+	ENV_Paris_Two_Mesh, Glass
+Destructibles
+	KFDestructible Actor, add MESH as subobject
