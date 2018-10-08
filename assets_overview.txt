@@ -14,9 +14,14 @@ Static Meshes
 	computers
 	benches
 	trees
+		zed landing, ENV_veggietation
 	railings
 		bioticslab
 		env_modular_static_set/stairwell
+	walls
+		broken walls, Nuked
+	gore
+		volter manor
 Doors
 	glass/double doors
 	solid door(wood)
